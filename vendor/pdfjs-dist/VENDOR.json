@@ -1,0 +1,11 @@
+{
+  "name": "pdfjs-dist",
+  "version": "4.10.38",
+  "license": "Apache-2.0",
+  "entry": "vendor/pdfjs-dist/pdf.min.mjs (ES module; set GlobalWorkerOptions.workerSrc = './vendor/pdfjs-dist/pdf.worker.min.mjs')",
+  "sources": {
+    "pdf.min.mjs": "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.min.mjs",
+    "pdf.worker.min.mjs": "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.worker.min.mjs",
+    "LICENSE": "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/LICENSE"
+  }
+}
